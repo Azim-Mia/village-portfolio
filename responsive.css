@@ -14,7 +14,7 @@ img{
 }
 header{
 position: sticky;
-z-index: 1000;
+z-index: 999;
 top: 0;
   background:#000;
   border-radius:0px 0px 10px 10px;
