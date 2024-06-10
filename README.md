@@ -1,1 +1,72 @@
 # village-portfolio-
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="village">
+  <meta name="keywords" content="HTML,CSS,XML,JavaScript">
+<title>village gallery</title>
+<link rel="stylesheet" href="./index.css" />
+<link rel="stylesheet" href="./responsive.css" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header_container">
+  <nav>
+    <ul class="ul">
+     <li><a href="https://dewangonjup.jamalpur.gov.bd/bn/site/top_banner/7wtQ-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%A8%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C-%E0%A6%87%E0%A6%89%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%A8-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B7%E0%A6%A6-%E0%A6%AD%E0%A6%AC%E0%A6%A8" target="_blank">দেওয়ানগঞ্জ</a></li>
+     <li><a href="https://bn.m.wikipedia.org/wiki/%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%AA%E0%A7%81%E0%A6%B0_%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE" target="_blank">জামালপুর তর্থ্য</a></li>
+   <li><a href="https://settlement.gov.bd/khatian/search">জমির তর্থ্য</a></li>
+    <li><a href="https://www.facebook.com/smazim.islam.08?mibextid=kFxxJD">Facebook</a></li>
+     <li><a href="https://www.linkedin.com/in/azim703">LinkedIn</a></li>
+    </ul>
+  </nav>  
+  </header>
+  <div class="image_slide">
+    <h1>Azim Islam</h1>
+    <b>Developer MERN Stack</b>
+  </div>
+    <main class="main_container">
+<section class="gallery_section">
+  <div><img src="./images/nice_1.jpg" alt="photos" /></div>
+    <div><img src="./images/nice_2.jpg" alt="photos" /></div>
+      <div><img src="/images/nice_3.jpg" alt="photos" /></div>
+  <div><img src="./images/nice_1.jpg" alt="photos" /></div>
+    <div><img src="./images/nice_2.jpg" alt="photos" /></div>
+      <div><img src="./images/nice_3.jpg" alt="photos" /></div>
+  <div><img src="./images/nice_1.jpg" alt="photos" /></div>
+    <div><img src="./images/nice_2.jpg" alt="photos" /></div>
+      <div><img src="./images/nice_3.jpg" alt="photos" /></div>
+</section>
+ </main>
+ <div class="news_container">
+ <div>
+    <span class="span"></span>
+<img class="image" src="" alt="photos" />
+<p class="description"></p>
+ </div>
+  <div>
+    <span class="span2"></span>
+<img class="image2" src="" alt="photos" />
+<p class="description2"></p>
+ </div>
+   <div>
+    <span class="span3"></span>
+<img class="image3" src="" alt="photos" />
+<p class="description3"></p>
+ </div>
+</div>
+    <footer class="footer_container">
+    <div class="copy_right_container">name:Azim Islam &copy right.</div>
+   <div class="contract_container">
+     <b>Gmail:
+    mdazimmia53@gmail.com</b>
+    <b>mobile: 01980673460</b>
+   </div>
+  </footer>
+  <script src="/index.js"></script>
+</body>
+</html>
